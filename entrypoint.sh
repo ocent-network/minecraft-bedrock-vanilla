@@ -1,4 +1,5 @@
 #!/bin/bash
+mkdir /home/container
 sleep 3
 
 cd /home/container
